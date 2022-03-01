@@ -1,0 +1,48 @@
+img{
+    height: 10vh;
+    margin-left: 2vh;
+    padding-right: 20px;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.feed{
+    margin-left: 60vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 100vh;
+    left: 200vh;
+    color: darkblue;
+
+}
+.a{
+    margin-left: 20vh;
+    width:150vh;
+    height:80vh;
+    z-index: -1;
+}
+.chill h1{
+    position: absolute;
+    bottom: 74vh;
+    margin-left: 70vh;
+
+}.help{
+    margin-top:10vh;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80vh;
+}
+.info{
+    margin-left: 75vh;
+    justify-content: center;
+    align-content: center;
+}
